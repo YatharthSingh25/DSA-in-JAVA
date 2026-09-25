@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1952-three-divisors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1952-three-divisors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
