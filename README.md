@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
