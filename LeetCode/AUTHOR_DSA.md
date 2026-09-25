@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 5 / 238 (2.1%)
+- **Completed:** 6 / 238 (2.5%)
 
 ---
 
@@ -23,7 +23,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Happy Number
 
 ### 📂 MODULE  2.3: FACTORS, DIVISORS & PERFECT
-- [ ] Three Divisors
+- [x] [Three Divisors](./Java/Easy/1952. Three Divisors/)
 - [ ] Perfect Number
 - [ ] Divisor Game
 - [ ] Find the Winning Player in Coin Game
