@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
