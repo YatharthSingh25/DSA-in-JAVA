@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
@@ -122,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
