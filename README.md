@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0443-string-compression) |
 | [1096-brace-expansion-ii](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
