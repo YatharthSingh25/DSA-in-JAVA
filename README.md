@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0867-transpose-matrix) |
 ## Binary Search
