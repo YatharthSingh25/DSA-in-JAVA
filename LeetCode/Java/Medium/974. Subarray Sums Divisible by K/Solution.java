@@ -14,9 +14,20 @@ class Solution {
         //return ans;
 
 
-        int n;
-        
-
+        int n= nums.length;
+        Map<Integer, Integer> map = new HashMap<>();
+        int sum = 0;
+        int ans = 0;
+        Map.put(0,1);
+        for(int val: nums){
+            int rem = sum%k;
+            if(rem<0){
+                rem+=k;
+            }
+            ans+=map.getDefault(rem,0);
+            map.put(rem,map.getDefault(rem,0)+1);
+        }
+        return ans;
 
     }
 }
