@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1952-three-divisors) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
