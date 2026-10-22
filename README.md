@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
