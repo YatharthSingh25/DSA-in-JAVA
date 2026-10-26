@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1550-three-consecutive-odds) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
