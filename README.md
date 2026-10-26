@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1550-three-consecutive-odds) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
