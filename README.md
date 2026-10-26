@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0119-pascals-triangle-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 ## Greedy
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
