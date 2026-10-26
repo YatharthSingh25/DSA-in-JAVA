@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0162-find-peak-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
@@ -159,9 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
