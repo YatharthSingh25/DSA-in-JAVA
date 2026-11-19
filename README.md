@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0258-add-digits) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1486-xor-operation-in-an-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1952-three-divisors) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0875-koko-eating-bananas](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
