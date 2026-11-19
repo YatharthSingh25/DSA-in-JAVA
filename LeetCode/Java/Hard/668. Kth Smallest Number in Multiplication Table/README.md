@@ -19,7 +19,7 @@ Nearly everyone has used the  [Multiplication Table](https://en.wikipedia.org/wi
 
 Given three integers  `m` ,  `n` , and  `k` , return  *the*  `kth`  *smallest element in the*  `m x n`  *multiplication table* .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
  ![image](https://assets.leetcode.com/uploads/2021/05/02/multtable1-grid.jpg) 
 
