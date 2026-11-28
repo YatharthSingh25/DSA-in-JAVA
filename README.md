@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
+| [0962-maximum-width-ramp](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0962-maximum-width-ramp) |
 | [1096-brace-expansion-ii](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0832-flipping-an-image) |
+| [0962-maximum-width-ramp](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/YatharthSingh25/DSA-in-JAVA/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
