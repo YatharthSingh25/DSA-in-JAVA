@@ -1,6 +1,6 @@
 # 📝 532. K-diff Pairs in an Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/k-diff-pairs-in-an-array)
+🔗 [Problem Link](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Two Pointers, Binary Search, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 10 ms
+- **Memory:** 46.2 MB
 
 ---
 
@@ -28,7 +28,7 @@ A  **k-diff**  pair is an integer pair  `(nums[i], nums[j])` , where the followi
 
 **Notice**  that  `|val|`  denotes the absolute value of  `val` .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [3,1,4,1,5], k = 2
